@@ -1,0 +1,26 @@
+{
+  "name": "phpth/linux-code",
+  "description": "Linux错误码对照",
+  "version": "v1.0.0",
+  "authors": [
+    {
+      "name": "zhangjs",
+      "email": "843960877@qq.com"
+    }
+  ],
+  "type": "package",
+  "homepage": "https://github.com/phpth/linux-code",
+  "license": "Apache-2.0",
+  "minimum-stability": "stable",
+  "require": {
+      "php": "^7.1"
+  },
+  "keywords": [
+    "linux code"
+  ],
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
